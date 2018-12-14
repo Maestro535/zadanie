@@ -11,6 +11,7 @@ namespace rabota
         static void Main(string[] args)
         {
             Console.WriteLine("Знакомство с GitHub");
+            Console.ReadKey(true);
         }
     }
 }
